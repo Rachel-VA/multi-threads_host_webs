@@ -1,7 +1,6 @@
 '''
 Rachael Savage
-CSC285-Python II
-Professor Tony Hinton
+
 9/30/23
 '''
 #import built-in libs
